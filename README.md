@@ -1,2 +1,1 @@
-# alx-low_level_programming
-low
+This is for projects on c programming for my ALX SWE program
